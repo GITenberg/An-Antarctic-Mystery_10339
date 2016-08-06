@@ -1,0 +1,78 @@
+_repo: An-Antarctic-Mystery_10339
+_version: 0.0.1
+alternative_title:
+- Le Sphinx de Glaces. English
+- Sphinx of the ice fields
+contributor:
+  translator:
+    agent_name: Hoey, Frances Cashel
+    aliases:
+    - Hoey, Cashel, Mrs.
+    - Hoey, Frances Sarah Johnston
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '4884'
+    url: http://www.gutenberg.org/2009/agents/4884
+covers:
+- cover_type: archival
+  image_path: 10339/10339-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: "An Antarctic Mystery (French: Le Sphinx des glaces, The Sphinx of the\
+  \ Ice Fields) is a two-volume novel by Jules Verne. Written in 1897, it is a response\
+  \ to Edgar Allan Poe's 1838 novel The Narrative of Arthur Gordon Pym of Nantucket.\
+  \ It follows the adventures of the narrator and his journey from the Kerguelen Islands\
+  \ aboard Halbrane.\nNeither Poe nor Verne had actually visited the remote Kerguelen\
+  \ Islands, located in the south Indian Ocean, but their works are some of the few\
+  \ literary (as opposed to exploratory) references to the archipelago.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10339'
+  wikidata: Q1212137
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antarctica -- Discovery and exploration -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: An Antarctic Mystery
+url: http://www.gutenberg.org/ebooks/10339
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Sphinx_des_glaces
+- https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84_%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%AF%D9%8A
+- https://pt.wikipedia.org/wiki/Le_Sphinx_des_glaces
+- https://pl.wikipedia.org/wiki/Lodowy_sfinks
+- https://it.wikipedia.org/wiki/La_sfinge_dei_ghiacci
+- https://cs.wikipedia.org/wiki/Ledov%C3%A1_sfinga
+- https://ka.wikipedia.org/wiki/%E1%83%A7%E1%83%98%E1%83%9C%E1%83%A3%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%A4%E1%83%98%E1%83%9C%E1%83%A5%E1%83%A1%E1%83%98
+- https://de.wikipedia.org/wiki/Die_Eissphinx
+- https://en.wikipedia.org/wiki/An_Antarctic_Mystery
+- https://es.wikipedia.org/wiki/La_esfinge_de_los_hielos
+- https://hy.wikipedia.org/wiki/%D5%8D%D5%A1%D5%BC%D6%81%D5%A5_%D5%BD%D6%86%D5%AB%D5%B6%D6%84%D5%BD
+- https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B0%D1%80%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%8F
+- https://commons.wikimedia.org/wiki/Category:The_Sphinx_of_the_Ice_Fields
+- https://ru.wikiquote.org/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D1%81%D1%84%D0%B8%D0%BD%D0%BA%D1%81
+- https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%BE%D0%B9_%D1%81%D1%84%D0%B8%D0%BD%D0%BA%D1%81
+- https://el.wikipedia.org/wiki/%CE%97_%CE%A3%CF%86%CE%AF%CE%B3%CE%B3%CE%B1_%CF%84%CF%89%CE%BD_%CE%A0%CE%AC%CE%B3%CF%89%CE%BD
+- https://ro.wikipedia.org/wiki/Sfinxul_ghe%C8%9Barilor
+- https://uk.wikipedia.org/wiki/%D0%9B%D1%8C%D0%BE%D0%B4%D1%8F%D0%BD%D0%B8%D0%B9_%D1%81%D1%84%D1%96%D0%BD%D0%BA%D1%81
+- https://fr.wikisource.org/wiki/Le_Sphinx_des_glaces
