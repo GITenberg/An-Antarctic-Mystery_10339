@@ -1,5 +1,5 @@
 _repo: An-Antarctic-Mystery_10339
-_version: 0.0.1
+_version: 0.1.0
 alternative_title:
 - Le Sphinx de Glaces. English
 - Sphinx of the ice fields
@@ -15,9 +15,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/4884
 covers:
 - cover_type: archival
-  image_path: 10339/10339-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 10339-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -41,6 +39,8 @@ description: "An Antarctic Mystery (French: Le Sphinx des glaces, The Sphinx of 
   \ Islands, located in the south Indian Ocean, but their works are some of the few\
   \ literary (as opposed to exploratory) references to the archipelago.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10339#An-Antarctic-Mystery
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
